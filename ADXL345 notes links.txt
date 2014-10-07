@@ -1,0 +1,5 @@
+http://www.elecrow.com/3-axis-digital-accelerometer-adxl345-p-594.html
+
+http://www.gwoptics.org/processing/gwoptics_p5lib/
+
+http://codeyoung.blogspot.com/2009/11/adxl345-accelerometer-breakout-board.html
